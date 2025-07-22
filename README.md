@@ -41,14 +41,14 @@
 </div>
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynghan&show_icons=true&theme=graywhite)
-
 <!-- 백준 & 프로그래머스 -->
 <h3 align="center">👨‍💻 Problem Solving 👨‍💻</h3>
 <div align="center">
   <!-- 백준 Solved.ac 티어 뱃지 -->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ynghan)](https://solved.ac/ynghan/)
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynghan&show_icons=true&theme=graywhite)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daum4572)](https://solved.ac/daum4572/)
 </div>
 
 <br>
