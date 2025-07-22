@@ -48,7 +48,6 @@
   <!-- 백준 Solved.ac 티어 뱃지 -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynghan&show_icons=true&theme=graywhite)
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daum4572)](https://solved.ac/daum4572/)
 </div>
 
